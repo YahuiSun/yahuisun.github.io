@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: ""
+permalink: /menu2/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> 
+<a href="https://yahuisun.com/assets/tfha2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/The-M-instances-and-FGW-codes-for-PCSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Yahui Sun, and Saman Halgamuge. "Minimum-cost heterogeneous node placement in wireless sensor networks." IEEE Access (2019). <br/> 
+<a href="https://yahuisun.com/assets/mhnp2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/minimum-cost-heterogeneous-node-placement" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+      
+Yahui Sun, Chenkai Ma, and Saman Halgamuge. "The node-weighted Steiner tree approach to identify elements of cancer-related signaling pathways." International Conference on Bioinformatics (Best Paper Awards; published in BMC Bioinformatics) (2017). <br/> 
+<a href="https://yahuisun.com/assets/tnst2017.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/node-weighted-protein-protein-interaction-network" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+      
+Yahui Sun, Pathima Nusrath Hameed, Karin Verspoor, and Saman Halgamuge. "A physarum-inspired prize-collecting steiner tree approach to identify subnetworks for drug repositioning." International Conference on Bioinformatics (published in BMC Systems Biology) (2016). <br/> 
+<a href="https://yahuisun.com/assets/apps2016.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/Drug-Similarity-Network" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+      
+Yahui Sun, and Saman Halgamuge. "Fast algorithms inspired by physarum polycephalum for node weighted Steiner tree problem with multiple terminals." In 2016 IEEE Congress on Evolutionary Computation (CEC), pp. 3254-3260. IEEE, 2016. <br/> 
+<a href="https://yahuisun.com/assets/faib2016.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/LNPO-to-find-Steiner-tree" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+      
+Yahui Sun, Yunhai Geng, and Shuang Wang. "Analysis and calibration of star sensor's image plane displacement." Infrared and Laser Engineering (2014). <br/> 
+<a href="https://yahuisun.com/assets/aaco2014.pdf" target="_blank" rel="nofollow">[PDF]</a>
+      
+Yahui Sun, Yingying Xiao, and Yunhai Geng. "On-orbit calibration of star sensor based on a new lens distortion model." In Proceedings of the 32nd Chinese Control Conference, pp. 4989-4994. IEEE, 2013. <br/> 
+<a href="https://yahuisun.com/assets/ocos2013.pdf" target="_blank" rel="nofollow">[PDF]</a>
