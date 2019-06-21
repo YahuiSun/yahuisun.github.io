@@ -46,3 +46,8 @@ Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 Change font size, go to "_sass/_base.scss" and "_sass/_variables.scss"
 
 Change Sitemap content, go to "_includes/footer.html"
+
+Change general font size, change "body {
+  font-size: $type-size-6;" in "_sass/_base.scss"
+  
+  
