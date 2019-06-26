@@ -46,13 +46,13 @@ Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 Change font template size, go to "_sass/_base.scss" and "_sass/_variables.scss"
 
 Change main content font size: go to "body {
-  margin: 0;
-  padding: 0;
-  padding-bottom: 9em;
-  color: $text-color;
-  text-align: justify;
-  font-family: $global-font-family;
   font-size: $type-size-6;" in "_sass/_base.scss".
+  
+Change sidebar author content font size, go to "p, li {
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }" in "_sass/_sidebar.scss".
 
 Change Sitemap content, go to "_includes/footer.html"
 
