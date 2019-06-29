@@ -19,7 +19,7 @@ This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank
 
 # Research Interests
 
-graph theory, graph mining, algorithms, networking
+graph theory, graph mining, networking
 
 # Languages
 
