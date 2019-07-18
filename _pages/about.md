@@ -15,7 +15,7 @@ Motivated by China's first crewed space mission in 2003, I studied aerospace eng
 
 I'm currently a <a href="http://scse.ntu.edu.sg/Research/CNCL/People/Pages/ResearchStaff.aspx" target="_blank" rel="nofollow">Research Fellow</a> in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore. 
 
-This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank" rel="nofollow">[CV]</a>.
+This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank" rel="nofollow">CV</a>.
 
 # Research Interests
 
