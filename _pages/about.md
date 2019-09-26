@@ -11,7 +11,7 @@ redirect_from:
 
 # Career Profile
 
-%Motivated by China's first crewed space mission in 2003, 
+<!---Motivated by China's first crewed space mission in 2003,---> 
 
 I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in the Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in the University of Melbourne, Australia. I'm currently a <a href="http://scse.ntu.edu.sg/Research/CNCL/People/Pages/ResearchStaff.aspx" target="_blank" rel="nofollow">Research Fellow</a> in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore. 
 
