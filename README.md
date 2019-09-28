@@ -48,6 +48,9 @@ Change font template size, go to "_sass/_base.scss" and "_sass/_variables.scss"
 Change main content font size: go to "body {
   font-size: $type-size-6;" in "_sass/_base.scss".
   
+ Change sidebar author content, go to "_config.yml" 
+
+  
 Change sidebar author content font size, go to "p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
