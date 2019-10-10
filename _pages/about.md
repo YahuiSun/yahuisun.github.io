@@ -15,7 +15,7 @@ Motivated by China's first crewed space mission in 2003, I studied aerospace eng
 
 This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank" rel="nofollow">CV</a>.
 
-This is my email: yahui.sun@ntu.edu.sg <span style="color:red">**I look forward to research collaborations!**</span>
+This is my email: yahui.sun@ntu.edu.sg (<span style="color:red">**I look forward to research collaborations!**</span>)
 
 # Research Interests
 
