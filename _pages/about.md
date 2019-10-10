@@ -15,6 +15,8 @@ Motivated by China's first crewed space mission in 2003, I studied aerospace eng
 
 This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank" rel="nofollow">CV</a>.
 
+My email: yahui.sun@ntu.edu.sg
+
 # Research Interests
 
 graph theory, graph mining, networking
