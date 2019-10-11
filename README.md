@@ -43,7 +43,7 @@ Change first-page content, go to "_pages/about.md"
 
 Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 
-Change font template size, go to "_sass/_base.scss" and "_sass/_variables.scss"
+Change font template size, text color etc., go to "_sass/_base.scss" and "_sass/_variables.scss"
 
 Change main content font size: go to "body {
   font-size: $type-size-6;" in "_sass/_base.scss".
