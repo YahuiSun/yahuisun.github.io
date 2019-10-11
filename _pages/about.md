@@ -17,6 +17,9 @@ This is my <a href="https://yahuisun.com/assets/CV_Yahui_SUN.pdf" target="_blank
 
 This is my email: <span style="color:#52adc8">yahui.sun@ntu.edu.sg</span> (I look forward to research collaborations!)
 
+
+<a href="" target="_blank" rel="nofollow">yahui.sun@ntu.edu.sg</a>.
+
 # Research Interests
 
 graph theory, graph mining, networking
