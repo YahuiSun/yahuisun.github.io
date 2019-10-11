@@ -24,7 +24,7 @@ This is my email: <span style="color:#52adc8"> <span style="text-decoration: und
 
 # Research Interests
 
-graph theory, graph mining, networking
+graph mining, networking
 
 # Languages
 
