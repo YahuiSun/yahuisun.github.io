@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multiple bumps in graphs." <b>Proceedings of the VLDB Endowment</b> (2020 accepted) <br/> 
+Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multiple bumps in graphs." <b>Proceedings of the VLDB Endowment</b> (2020) <br/> 
 <a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> 
