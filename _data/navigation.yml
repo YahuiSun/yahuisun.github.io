@@ -1,7 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /menu2/ 
+    url: /menu2/
+    
+  - title: "Preprints and Notes"
+    url: /menu3/ 
     
   #- title: "CV"
   #  url: /cv/ 
