@@ -13,7 +13,7 @@ Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multip
 <a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> 
-<a href="https://yahuisun.com/assets/tfha2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/The-M-instances-and-FGW-codes-for-PCSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+<a href="https://yahuisun.com/assets/tfha2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://yahuisun.com/assets/tfha2019_supplement.pdf" target="_blank" rel="nofollow">[SUPPLEMENT]</a> <a href="https://github.com/YahuiSun/The-M-instances-and-FGW-codes-for-PCSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 Yahui Sun, and Saman Halgamuge. "Minimum-cost heterogeneous node placement in wireless sensor networks." IEEE Access (2019). <br/> 
 <a href="https://yahuisun.com/assets/mhnp2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/minimum-cost-heterogeneous-node-placement" target="_blank" rel="nofollow">[Codes&Datasets]</a>
