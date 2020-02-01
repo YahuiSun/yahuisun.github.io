@@ -13,7 +13,7 @@ Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multip
 <a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 
-Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. “A Physarum-inspired algorithm for minimum-cost relay node placement in wireless sensor networks” <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> (2020 accepted)
+Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. “A Physarum-inspired algorithm for minimum-cost relay node placement in wireless sensor networks” <b>IEEE/ACM Transactions on Networking</b> (2020 accepted) <br/> 
 <a href="https://yahuisun.com/assets/apaf2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/NWPTSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> 
