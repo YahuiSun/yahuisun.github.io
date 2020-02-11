@@ -33,6 +33,8 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 # Yahui Note
 
+The google search history of this website is at https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fyahuisun.com%2F&breakdown=country
+
 After changing the domin, you need to change "url                      :" in _config.yml
 
 Change website title, go to "title                    : "Yahui Sun 孙亚辉"" in _config.yml
