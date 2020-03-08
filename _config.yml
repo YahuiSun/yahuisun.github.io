@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yahui SUN"
+  #name             : "Yahui SUN"
   avatar           : "profile.png"
   #bio              : "Research Fellow, <br /> Nanyang Technological University"
   #location         : "Location"
