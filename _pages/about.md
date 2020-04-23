@@ -11,6 +11,8 @@ redirect_from:
 
 # Career Profile
 
+I'm currently a Research Fellow in the School of Computing at the National University of Singapore.
+
 I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in the Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in the University of Melbourne, Australia. 
 
 <!-- I'm currently a Research Fellow in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore.  -->
