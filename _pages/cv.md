@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multiple bumps in graphs." <b>Proceedings of the VLDB Endowment</b> (2020) <br/> 
-<a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+<a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a> <a href="https://www.youtube.com/watch?v=YmQA0ulNO8w" target="_blank" rel="nofollow">[Video introduction]</a>
 
 
 Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. “A Physarum-inspired algorithm for minimum-cost relay node placement in wireless sensor networks” <b>IEEE/ACM Transactions on Networking</b> (2020) <br/> 
