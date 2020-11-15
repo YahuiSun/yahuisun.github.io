@@ -43,6 +43,8 @@ Change pages, go to "_data/navigation.yml"
 
 Change first-page content, go to "_pages/about.md"
 
+Change Publications page content, go to "academicpages/_pages/cv.md"
+
 Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 
 Change font template size, text color etc., go to "_sass/_base.scss" and "_sass/_variables.scss"
