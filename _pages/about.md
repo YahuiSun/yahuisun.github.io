@@ -28,7 +28,7 @@ My email: <span style="color:#52adc8"> yahuisun@outlook.com </span> (I look forw
 
 # Research Interests
 
-graph mining, networking
+graph related data mining and networking
 
 # Languages
 
