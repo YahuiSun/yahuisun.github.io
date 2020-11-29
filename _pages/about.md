@@ -30,7 +30,7 @@ My email: <span style="color:#52adc8"> yahuisun@outlook.com </span> (I look forw
 
 graph related data mining and networking 
 
-<span style="color:#52adc8"> I particularly like researches that arise at the cross-intersection of applied data engineering and theoretical computer science. </span>
+I particularly like researches that arise at the cross-intersection of applied data engineering and theoretical computer science. 
 
 # Languages
 
