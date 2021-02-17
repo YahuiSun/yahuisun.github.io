@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Yahui Sun, Xiaokui Xiao, Bin Cui, Saman Halgamuge, Theodoros Lappas, and Jun Luo. "Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights." <b>Proceedings of the VLDB Endowment</b> (2021) <br/> 
+<a href="https://yahuisun.com/assets/fgst2021.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/GroupSteinerTree" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+
 Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, and Bin Cui. "Hunting multiple bumps in graphs." <b>Proceedings of the VLDB Endowment</b> (2020) <br/> 
 <a href="https://yahuisun.com/assets/hmbi2020.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/bump_hunting" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
