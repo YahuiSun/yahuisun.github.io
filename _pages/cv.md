@@ -21,9 +21,6 @@ Yahui Sun, Daniel Rehfeldt, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. â
 
 Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <b>IEEE/ACM Transactions on Networking</b> (2019) <br/> 
 <a href="https://yahuisun.com/assets/tfha2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/The-M-instances-and-FGW-codes-for-PCSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>  
-
-Yahui Sun, and Saman Halgamuge. "Minimum-cost heterogeneous node placement in wireless sensor networks." IEEE Access (2019). <br/> 
-<a href="https://yahuisun.com/assets/mhnp2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/minimum-cost-heterogeneous-node-placement" target="_blank" rel="nofollow">[Codes&Datasets]</a>
       
 Yahui Sun, Chenkai Ma, and Saman Halgamuge. "The node-weighted Steiner tree approach to identify elements of cancer-related signaling pathways." International Conference on Bioinformatics (Best Paper Awards; published in BMC Bioinformatics) (2017). <br/> 
 <a href="https://yahuisun.com/assets/tnst2017.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/node-weighted-protein-protein-interaction-network" target="_blank" rel="nofollow">[Codes&Datasets]</a>
