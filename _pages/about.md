@@ -19,7 +19,7 @@ I studied aerospace engineering for my bachelor (2008-2012) and master (2012-201
 
 My CV: <a href="https://yahuisun.com/assets/CV_Yahui_SUN_EN.pdf" target="_blank" rel="nofollow">CV in English</a> or <a href="https://yahuisun.com/assets/CV_Yahui_SUN_CN.pdf" target="_blank" rel="nofollow">CV in Chinese</a> (中文简历).
 
-My email: <span style="color:#52adc8"> yahuisun@outlook.com </span> (I look forward to research collaborations!)
+My email: <span style="color:#52adc8"> yahuisun@outlook.com </span> 
 
 
 
