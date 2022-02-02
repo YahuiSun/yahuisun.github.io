@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Yahui Sun, Shuai Ma, and Bin Cui. "Hunting temporal bumps in graphs with dynamic vertex properties." <b>Proceedings of the 2022 ACM SIGMOD international conference on management of data</b> (2022) <br/> 
+[Coming soon]
+
 Yahui Sun, Xiaokui Xiao, Bin Cui, Saman Halgamuge, Theodoros Lappas, and Jun Luo. "Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights." <b>Proceedings of the VLDB Endowment</b> (2021) <br/> 
 <a href="https://yahuisun.com/assets/fgst2021.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/GroupSteinerTree" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
