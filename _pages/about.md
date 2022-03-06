@@ -17,7 +17,7 @@ I studied aerospace engineering for my bachelor (2008-2012) and master (2012-201
 
 <!-- I'm currently a Research Fellow in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore.  -->
 
-My CV: <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_EN.pdf" target="_blank" rel="nofollow">CV in English</a> or <a href="https://https://yahuisun.github.io/assets/CV_Yahui_SUN_CN.pdf" target="_blank" rel="nofollow">CV in Chinese</a> (中文简历).
+My CV: <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_EN.pdf" target="_blank" rel="nofollow">CV in English</a> or <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_CN.pdf" target="_blank" rel="nofollow">CV in Chinese</a> (中文简历).
 
 My email: <span style="color:#52adc8"> yahuisun@ruc.edu.cn </span> 
 
