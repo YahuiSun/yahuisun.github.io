@@ -11,7 +11,7 @@ redirect_from:
 
 # Career Profile
 
-I'm currently a Lecturer in the Department of Computer Science and Technology, School of Information, Renmin University of China.
+I'm currently an Associate Professor in the Department of Computer Science and Technology, School of Information, Renmin University of China.
 
 I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in the Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in the University of Melbourne, Australia. 
 
