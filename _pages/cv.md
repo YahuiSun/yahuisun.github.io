@@ -46,5 +46,4 @@ Yahui Sun, Yunhai Geng, and Shuang Wang. "Analysis and calibration of star senso
 Yahui Sun, Yingying Xiao, and Yunhai Geng. "On-orbit calibration of star sensor based on a new lens distortion model." In Proceedings of the 32nd Chinese Control Conference, pp. 4989-4994. IEEE, 2013. <br/> 
 <a href="https://yahuisun.github.io/assets/ocos2013.pdf" target="_blank" rel="nofollow">[PDF]</a>
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h2GkPBsqD5GMKWGQkeiGe000GheMouDYhuHDsqwfslE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=286&t=n&d=h2GkPBsqD5GMKWGQkeiGe000GheMouDYhuHDsqwfslE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
