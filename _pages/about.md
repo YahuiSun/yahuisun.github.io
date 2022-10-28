@@ -36,6 +36,4 @@ I particularly like researches that blur the boundary between applied data engin
 
 Mandarin, English, C++, R, MATLAB
 
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=fdfefd&w=286&t=tt&d=EpaE9uYYcSau9jvYUwapjNo6NPD94havBN3VBfhHpAQ&co=377eb8&cmo=e41a1c&cmn=4daf4a&ct=fbf5fc'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=377eb8&w=286&t=tt&d=EpaE9uYYcSau9jvYUwapjNo6NPD94havBN3VBfhHpAQ&co=ffffff&cmo=e41a1c&cmn=4daf4a&ct=404040'></script>
