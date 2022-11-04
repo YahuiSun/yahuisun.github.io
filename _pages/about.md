@@ -28,7 +28,7 @@ My email: <span style="color:#52adc8"> yahuisun@ruc.edu.cn </span>
 
 # Research Interests
 
-graph related data mining and networking 
+graph mining
 
 I particularly like researches that blur the boundary between applied data engineering and theoretical computer science.
 
