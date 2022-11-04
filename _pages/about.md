@@ -13,7 +13,7 @@ redirect_from:
 
 I'm an Associate Professor in the Department of Computer Science and Technology, School of Information, Renmin University of China.
 
-I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in the Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in the University of Melbourne, Australia. 
+I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in University of Melbourne, Australia. 
 
 <!-- I'm currently a Research Fellow in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore.  -->
 
