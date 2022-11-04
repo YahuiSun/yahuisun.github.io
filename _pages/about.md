@@ -11,7 +11,7 @@ redirect_from:
 
 # Career Profile
 
-I'm currently an Associate Professor in the Department of Computer Science and Technology, School of Information, Renmin University of China.
+I'm an Associate Professor in the Department of Computer Science and Technology, School of Information, Renmin University of China.
 
 I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in the Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in the University of Melbourne, Australia. 
 
@@ -32,8 +32,8 @@ graph related data mining and networking
 
 I particularly like researches that blur the boundary between applied data engineering and theoretical computer science.
 
-# Languages
+%# Languages
 
-Mandarin, English, C++, R, MATLAB
+%Mandarin, English, C++, R, MATLAB
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=377eb8&w=286&t=tt&d=EpaE9uYYcSau9jvYUwapjNo6NPD94havBN3VBfhHpAQ&co=ffffff&cmo=e41a1c&cmn=4daf4a&ct=404040'></script>
