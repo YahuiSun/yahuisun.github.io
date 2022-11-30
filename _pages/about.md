@@ -28,9 +28,9 @@ My <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f62321ff5ba
 
 # Research Interests
 
-graph mining
+Graph mining
 
-I particularly like researches that blur the boundary between applied data engineering and theoretical computer science.
+I particularly like researches that blur the boundary between applied data engineering and theoretical computer science (我喜欢数据挖掘工程与理论计算机科学的交叉领域的研究).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=377eb8&w=286&t=tt&d=EpaE9uYYcSau9jvYUwapjNo6NPD94havBN3VBfhHpAQ&co=ffffff&cmo=e41a1c&cmn=4daf4a&ct=404040'></script>
