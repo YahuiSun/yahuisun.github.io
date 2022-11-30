@@ -19,7 +19,7 @@ I studied aerospace engineering for my bachelor (2008-2012) and master (2012-201
 
 My CV: <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_EN.pdf" target="_blank" rel="nofollow">CV in English</a> or <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_CN.pdf" target="_blank" rel="nofollow">CV in Chinese</a> (中文简历).
 
-My email: <span style="color:#52adc8"> yahuisun@ruc.edu.cn </span> 
+My email: <span style="color:#52adc8"> yahuisun@ruc.edu.cn </span>. 
 
 My <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f62321ff5ba948389f9c7493ccef6950.htm" target="_blank" rel="nofollow">official webpage</a> (in Chinese).
 
@@ -28,7 +28,7 @@ My <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f62321ff5ba
 
 # Research Interests
 
-Graph mining
+Graph mining (related to knowledge graphs, social networks, computer networks, Internet of things, etc.).
 
 I particularly like researches that blur the boundary between applied data engineering and theoretical computer science (我喜欢数据挖掘工程与理论计算机科学的交叉领域的研究).
 
