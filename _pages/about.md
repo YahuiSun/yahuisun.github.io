@@ -28,7 +28,7 @@ My <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f62321ff5ba
 
 # Research Interests
 
-Graph mining (related to knowledge graphs, social networks, computer networks, Internet of things, etc.).
+Graph mining, related to knowledge graphs, social networks, computer networks, Internet of things, etc. (图计算相关的数据挖掘算法).
 
 I particularly like researches that blur the boundary between applied data engineering and theoretical computer science (我喜欢数据挖掘工程与理论计算机科学的交叉领域的研究).
 
