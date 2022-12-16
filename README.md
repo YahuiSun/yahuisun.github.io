@@ -33,37 +33,39 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 # Yahui Note
 
-The google search history of this website is at https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fyahuisun.com%2F&breakdown=country
+1. The google search history of this website is at https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fyahuisun.com%2F&breakdown=country
 
-After changing the domin, you need to change "url                      :" in _config.yml
+2. After changing the domin, you need to change "url                      :" in _config.yml
 
-Change website title, go to "title                    : "Yahui Sun 孙亚辉"" in _config.yml
+3. Change website title, go to "title                    : "Yahui Sun 孙亚辉"" in _config.yml
 
-Change pages, go to "_data/navigation.yml"
+4. Change pages, go to "_data/navigation.yml"
 
-Change first-page content, go to "_pages/about.md"
+5. Change first-page content, go to "_pages/about.md"
 
-Change Publications page content, go to "academicpages/_pages/cv.md"
+5. Change Publications page content, go to "academicpages/_pages/cv.md"
 
-Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
+6. Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 
-Change font template size, text color etc., go to "_sass/_base.scss" and "_sass/_variables.scss"
+7. Change font template size, text color etc., go to "_sass/_base.scss" and "_sass/_variables.scss"
 
-Change main content font size: go to "body {
+8. Change main content font size: go to "body {
   font-size: $type-size-6;" in "_sass/_base.scss".
   
- Change sidebar author content, go to "_config.yml" 
+9. Change sidebar author content, go to "_config.yml" 
 
   
-Change sidebar author content font size, go to "p, li {
+10. Change sidebar author content font size, go to "p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }" in "_sass/_sidebar.scss".
 
-Change Sitemap content, go to "_includes/footer.html"
+11. Change Sitemap content, go to "_includes/footer.html"
 
-Change general font size, change "body {
+12. Change general font size, change "body {
   font-size: $type-size-6;" in "_sass/_base.scss"
+  
+13. Make your Jekyll Github Pages appear on Google search result: https://victor2code.github.io/blog/2019/07/04/jekyll-github-pages-appear-on-Google.html
   
   
