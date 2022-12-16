@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is build-in-progress description of a library of cpp header files named as rucgraph.
+This is build-in-progress description of a library of cpp header files named as (<a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">[rucgraph]</a>).
