@@ -43,7 +43,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 5. Change first-page content, go to "_pages/about.md"
 
-5. Change Publications page content, go to "academicpages/_pages/cv.md"
+5. Change Publications page content, go to "academicpages/_pages/menu.md"  (permalink: /menu2/ is md file is used for navigation, not the name of md file)
 
 6. Justify text in markdowns jekyll, "text-align: justify;" in "_sass/_base.scss"
 
