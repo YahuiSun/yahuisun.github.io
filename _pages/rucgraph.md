@@ -12,9 +12,9 @@ redirect_from:
 # Introduction
 
 I am maintaining an open-source, easy-to-use library of cpp header files: <a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">rucgraph</a>, which is mainly designed for performing graph computing tasks. It accepts Pull Requests on Github! 
-
+<p align="center">
 <img src="/_pages/assets/20221217211817.png" alt="drawing" width="400"/>
-
+</p>
 
 It contains different types of adjacency lists to represent a graph, such as a simple adjacency list built using vectors, as well as a complex adjacency list built using a "dynamic" mixup of vectors and hashes. 
 It is easy to uses these adjacency lists. For example, the following codes first build a graph with 5 vertices and 2 edges, and then find and print 3 components of this graph.
