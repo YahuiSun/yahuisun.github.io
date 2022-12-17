@@ -17,7 +17,7 @@ I am maintaining an open-source, easy-to-use library of cpp header files: <a hre
 </p>
 
 It contains different types of adjacency lists to represent a graph, including a simple adjacency list built using vectors, as well as a complex adjacency list built using a "dynamic" mixup of vectors and hashes. 
-It is easy to uses these adjacency lists. For example, the following codes first build a graph with 5 vertices and 2 edges, and then find and print 3 components of this graph.
+It is easy to use these adjacency lists. For example, the following codes first build a graph with 5 vertices and 2 edges, and then find and print 3 components of this graph.
 ```
 graph_v_of_v_idealID g(5); // a graph with 5 vertices: 0, 1, 2, 3, 4, 5
 graph_v_of_v_idealID_add_edge(g, 0, 1, 0.3); // add edge (0,1) with the weight of 0.3 
