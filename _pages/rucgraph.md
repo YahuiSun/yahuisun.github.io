@@ -13,9 +13,7 @@ redirect_from:
 
 I am maintaining an open-source, easy-to-use library of cpp header files: <a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">rucgraph</a>, which is mainly designed for performing graph computing tasks. It accepts Pull Requests on Github! 
 
-<img src="/_pages/assets/20221217211817.png" alt="drawing" width="200"/>
-
-![](/_pages/assets/20221217211817.png)
+<img src="/_pages/assets/20221217211817.png" alt="drawing" width="400"/>
 
 
 It contains different types of adjacency lists to represent a graph, such as a simple adjacency list built using vectors, as well as a complex adjacency list built using a "dynamic" mixup of vectors and hashes. 
