@@ -49,6 +49,8 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 7. Change font template size, text color etc., go to "_sass/_base.scss" and "_sass/_variables.scss"
 
+8. code font size is in "_sass/_syntax.scss", as discussed in https://github.com/academicpages/academicpages.github.io/issues/59
+
 8. Change main content font size: go to "body {
   font-size: $type-size-6;" in "_sass/_base.scss".
   
