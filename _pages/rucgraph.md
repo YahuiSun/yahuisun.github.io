@@ -17,7 +17,7 @@ It contains different types of adjacency lists to represent a graph, e.g., "grap
         graph_v_of_v_idealID g(5); // a graph with 5 vertices: 0, 1, 2, 3, 4, 5
 	graph_v_of_v_idealID_add_edge(g, 0, 1, 0.3); // add edge (0,1) with the weight of 0.3 
 	graph_v_of_v_idealID_add_edge(g, 3, 4, 0.5); // add edge (1,2) with the weight of 0.5
-	std::list<std::list<int>> cpns = graph_v_of_v_idealID_connected_components(g); // find the connected components of g
+	auto cpns = graph_v_of_v_idealID_connected_components(g); // find the connected components of g
 	for (auto it = cpns.begin(); it != cpns.end(); it++) {
 		print_a_sequence_of_elements(*it);
 	}
