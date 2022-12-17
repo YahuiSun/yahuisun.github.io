@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Introduction
+
 I am maintaining an open-source, easy-to-use library of cpp header files: <a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">rucgraph</a>, which is mainly designed for performing graph computing tasks. It accepts Pull Requests on Github! 
 
 
@@ -31,5 +33,8 @@ It is easy to uses these adjacency lists. For example, the following codes first
 	*/
 ```
 
+<br/>
+
+# Highlights
 
 
