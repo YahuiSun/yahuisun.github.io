@@ -41,7 +41,7 @@ It is easy to uses these adjacency lists. For example, the following codes first
 
 ## A Pairing Heap that can change all keys in O(1) time
 
-rucgraph contains <span style="color:red">an augmented Pairing Heap that can change all keys in O(1) time!</span>. It achieves this by associating an offset value with each node in the heap.
+rucgraph contains <span style="color:red">an augmented Pairing Heap that can change all keys in O(1) time!</span> It achieves this by associating an offset value with each node in the heap.
 
 
 
