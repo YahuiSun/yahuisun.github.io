@@ -11,7 +11,7 @@ redirect_from:
 
 # A brief introduction to rucgraph
 
-I am maintaining an open-source, easy-to-use library of cpp header files: <a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">rucgraph</a>, which is mainly designed for performing graph computing tasks. It accepts Pull Requests on Github! 
+I am maintaining an open-source, easy-to-use library of cpp header files: <a href="https://github.com/rucdatascience/rucgraph" target="_blank" rel="nofollow">rucgraph</a>, which is mainly designed for performing graph computing tasks. Welcome to joining the development of rucgraph by pulling requests on github!
 <p align="center">
 <img src="/_pages/assets/20221217211817.png" alt="drawing" width="400"/>
 </p>
