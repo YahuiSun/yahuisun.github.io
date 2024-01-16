@@ -6,8 +6,8 @@ main:
   #- title: "Preprints and Notes"
   #  url: /menu3/ 
     
-  - title: "rucgraph"
-    url: /rucgraph/ 
+  #- title: "rucgraph"
+  #  url: /rucgraph/ 
 
   #- title: "Talks"
   #  url: /talks/    
