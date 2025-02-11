@@ -15,8 +15,6 @@ I'm an Associate Professor in the Department of Computer Science and Technology,
 
 I studied aerospace engineering for my bachelor (2008-2012) and master (2012-2014) degrees in Harbin Institute of Technology, China.  Subsequently, I studied Steiner tree problems in graphs for my PhD degree (2014-2018) in University of Melbourne, Australia. 
 
-<!-- I'm currently a Research Fellow in the School of Computer Science and Engineering at the Nanyang Technological University, Singapore.  -->
-
 My CV: <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_EN.pdf" target="_blank" rel="nofollow">CV in English</a> or <a href="https://yahuisun.github.io/assets/CV_Yahui_SUN_CN.pdf" target="_blank" rel="nofollow">CV in Chinese</a> (中文简历).
 
 My email: <span style="color:#52adc8"> yahuisun@ruc.edu.cn </span>
@@ -28,9 +26,8 @@ My <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f62321ff5ba
 
 # Research Interests
 
-Graph mining, related to knowledge graphs, social networks, computer networks, Internet of things, etc. (图计算相关的数据挖掘算法).
+Data management algorithms and systems; GPU high-performance computing
 
-I particularly like researches that blur the boundary between applied data engineering and theoretical computer science (我喜欢数据挖掘工程与理论计算机科学的交叉领域的研究).
 
 <br>
 
