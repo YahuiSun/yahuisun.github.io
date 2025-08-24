@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Shuang Yang (undergraduate student advised by myself), Yahui Sun (corresponding author), Jiesong Liu, Xiaokui Xiao, Rong-Hua Li, and Zhewei Wei. "Approximating Probabilistic Group Steiner Trees in Graphs." <b>Proceedings of the VLDB Endowment</b> (2022) <br/> 
+Jiayu Li (student advised by myself), Yahui Sun (corresponding author), Bojing Ma, Mengxi Hu, Libang Chen, Feng Zhang, Rong-Hua Li. "Fast Optimal Group Steiner Tree Search using GPUs." <b>Proceedings of the ACM on Management of Data</b> (2026)
+
+Shuang Yang (student advised by myself), Yahui Sun (corresponding author), Jiesong Liu, Xiaokui Xiao, Rong-Hua Li, and Zhewei Wei. "Approximating Probabilistic Group Steiner Trees in Graphs." <b>Proceedings of the VLDB Endowment</b> (2023) <br/> 
 <a href="https://yahuisun.github.io/assets/apgs2022.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/rucdatascience/PGST" target="_blank" rel="nofollow">[Codes&Datasets]</a>
 
 Yahui Sun, Shuai Ma, and Bin Cui. "Hunting temporal bumps in graphs with dynamic vertex properties." <b>Proceedings of the 2022 ACM SIGMOD international conference on management of data</b> (2022) <br/> 
