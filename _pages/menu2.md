@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Jiayu Li (student advised by myself), Yahui Sun (corresponding author), Bojing Ma, Mengxi Hu, Libang Chen, Feng Zhang, Rong-Hua Li. "Fast Optimal Group Steiner Tree Search using GPUs." <b>Proceedings of the ACM on Management of Data</b> (2026)
+Xiaoyao Feng (student advised by myself), Yahui Sun (corresponding author), Zhuoran Wang, Junlin Li, Sijia Luo, Rong-Hua Li. "L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs." <b>IEEE International Conference on Data Engineering</b> (2026)
+
+Jiayu Li (student advised by myself), Yahui Sun (corresponding author), Bojing Ma, Mengxi Hu, Libang Chen, Feng Zhang, Rong-Hua Li. "Fast Optimal Group Steiner Tree Search using GPUs." <b>Proceedings of the ACM on Management of Data</b> (2025)
 
 Shuang Yang (student advised by myself), Yahui Sun (corresponding author), Jiesong Liu, Xiaokui Xiao, Rong-Hua Li, and Zhewei Wei. "Approximating Probabilistic Group Steiner Trees in Graphs." <b>Proceedings of the VLDB Endowment</b> (2023) <br/> 
 <a href="https://yahuisun.github.io/assets/apgs2022.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/rucdatascience/PGST" target="_blank" rel="nofollow">[Codes&Datasets]</a>
